@@ -30,11 +30,10 @@ This keyboard is heavily inspired by a corne keyboard, specially the key layout
 ![pcb layout](IMG/pcb.png) 
 
 ###  BOM images
+## Disclaimer (The currency for this purchases is Canadian Dollars)
 
 ![aliexpress](IMG/Aliexpress.png) 
-![amazon](IMG/Amazon.png) 
 ![JLCpcb](IMG/JLCpcb.png) 
 
-## Disclaimer (The currency for this purchases is Canadian Dollars)
 
 
