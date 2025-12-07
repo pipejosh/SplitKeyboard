@@ -10,22 +10,31 @@ This keyboard is heavily inspired by a corne keyboard, specially the key layout
 
 # IMAGESSS!!!
 
-h3 case
-![case](IMG/case.png) 
+### render
 
-h3 schematics
+![render](IMG/render.png) 
+![render2](IMG/render2.png) 
+
+###  case
+
+![case](IMG/case.png) 
+![case](IMG/case2.png) 
+
+###  schematics
 
 ![left side](IMG/schematicLeft.png) 
 ![left side](IMG/schematicRight.png) 
 
-h3 pcb layout
+###  pcb layout
 
 ![pcb layout](IMG/pcb.png) 
 
-h3 BOM images
+###  BOM images
 
 ![aliexpress](IMG/Aliexpress.png) 
 ![amazon](IMG/Amazon.png) 
 ![JLCpcb](IMG/JLCpcb.png) 
+
+## Disclaimer (The currency for this purchases is Canadian Dollars)
 
 

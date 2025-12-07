@@ -3596,17 +3596,6 @@
 				)
 			)
 		)
-		(fp_text user "B6"
-			(at 15.455081 38.745748 0)
-			(layer "F.SilkS")
-			(uuid "b65f1a25-5b9c-4280-8b40-e96944dc2665")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-			)
-		)
 		(fp_text user "E6"
 			(at -5.461 8.89 0)
 			(layer "F.SilkS")
@@ -3785,18 +3774,6 @@
 			(at -5.461 -1.27 0)
 			(layer "B.SilkS")
 			(uuid "b0f3de7f-8e22-459a-8fda-ce7f7c10429c")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "B6"
-			(at 15.455081 38.745748 0)
-			(layer "B.SilkS")
-			(uuid "d2e75ffb-917a-404f-b2d4-e20e1d3b67c1")
 			(effects
 				(font
 					(size 0.8 0.8)
